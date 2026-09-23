@@ -5,7 +5,7 @@
 
 
 
-┌─────────────────────────────────────────────────────────────────┐
+
 │ 📊 I turn messy, constrained reality into actionable insight    │
 │                                                                 │
 │ While others build on clean, synthetic Kaggle datasets,         │
@@ -14,7 +14,7 @@
 │ • Hybrid data architectures (Real + Calibrated Synthetic)       │
 │ • High-stakes domain complexity (Aviation Fuel & Operations)    │
 │ • Full-lifecycle delivery (Ingestion → Modeling → Dashboard)    │
-└─────────────────────────────────────────────────────────────────┘
+
 
 
 ### 🚀 Current Project: KQ Network Profitability & Fuel-Risk Intelligence Pipeline
