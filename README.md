@@ -31,16 +31,16 @@ A production-grade data pipeline built around Kenya Airways' real, current situa
 
 
 ╔══════════════════════════════════════════════════════════════════╗
-║  Phase 1: Complete (Built & Verified)                          ║
-║  • Real + Synthetic Data Pipeline (Calibrated to public facts) ║
-║  • Airflow Orchestration (Ingestion & Scheduling)              ║
-║  • 6,100+ Real EIA Fuel Price Observations Ingested            ║
-║  • Comprehensive Unit Tests & Calibration Verification         ║
-║                                                              ║
-║  Phase 2-4: In Progress (See docs/implementation_guide.md)     ║
-║  • Star-schema Warehouse & ETL (Transform Layer)               ║
-║  • Fuel-Cost Forecast & Risk Classifier (ML Models)            ║
-║  • Interactive Dashboard & Excel Workbook (Analytics)          ║
+║  Phase 1: Complete (Built & Verified)                            ║
+║  • Real + Synthetic Data Pipeline (Calibrated to public facts)   ║
+║  • Airflow Orchestration (Ingestion & Scheduling)                ║
+║  • 6,100+ Real EIA Fuel Price Observations Ingested              ║
+║  • Comprehensive Unit Tests & Calibration Verification           ║
+║                                                                  ║
+║  Phase 2-4: In Progress (See docs/implementation_guide.md)       ║
+║  • Star-schema Warehouse & ETL (Transform Layer)                 ║
+║  • Fuel-Cost Forecast & Risk Classifier (ML Models)              ║
+║  • Interactive Dashboard & Excel Workbook (Analytics)            ║
 ╚══════════════════════════════════════════════════════════════════╝
 
 
