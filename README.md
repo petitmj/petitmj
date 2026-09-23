@@ -1,64 +1,74 @@
 # 👋 Hi, I'm J.P Mukhwana
 
-## Edge ML Engineer | Low-Resource ML Optimizations | Building AI for the 1.3B people computing on 2G
+
+```markdown
+# Data Engineer | Data Scientist | Data Analyst
+## Building Intelligence for Complex, Constrained Systems
+
 ```
-┌─────────────────────────────────────────────────────┐
-│ 🌍 I solve problems others choose to forget         |
-│                                                     │
-│ While others optimize for GPU clusters,             │
-│ I optimize for reality:                             │
-│ • $50 Android phones from 2015                      │
-│ • 2G internet, 512MB RAM                            │
-│ • Pay-per-kilobyte data                             │
-│ • 1.3 billion people at the edge                    │
-└─────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────┐
+│ 📊 I turn messy, constrained reality into actionable insight    │
+│                                                                 │
+│ While others build on clean, synthetic Kaggle datasets,         │
+│ I build for reality:                                            │
+│ • Real-world data scarcity (only public financials available)   │
+│ • Hybrid data architectures (Real + Calibrated Synthetic)       │
+│ • High-stakes domain complexity (Aviation Fuel & Operations)    │
+│ • Full-lifecycle delivery (Ingestion → Modeling → Dashboard)    │
+└─────────────────────────────────────────────────────────────────┘
 ```
 
-### 🚀 Current Project: Epital Elderguard
+### 🚀 Current Project: KQ Network Profitability & Fuel-Risk Intelligence Pipeline
 
-Production-ready ML models optimized for African infrastructure
+A production-grade data pipeline built around Kenya Airways' real, current situation — where fuel is now ~52% of direct operating costs after a 66% price surge, and capacity is down ~9% due to aircraft groundings.
 
-**[Explore Epital Elderguard] →](https://github.com/petitmj/-Epital-ElderGuard---AI-Powered-Fall-Detection)**
+**Built to demonstrate readiness for three related roles: Data Engineer, Data Scientist, and Data Analyst.**
+
+[Explore KQ Intelligence Pipeline →](your-repo-link)
 
 ---
 
-### 📊 Impact in Production
+### 📊 Impact & Status in Production
 
 ```
-╔══════════════════════════════════════════════════════╗
-║  40+ ML models deployed on Edge Devices              ║
-║  2.4M+ end users (95% on <2GB RAM devices)           ║
-║  $4K+ saved in cloud costs                           ║
-║  <100ms average inference latency                    ║
-║  80% of models work completely offline               ║
-╚══════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════╗
+║  Phase 1: Complete (Built & Verified)                          ║
+║  • Real + Synthetic Data Pipeline (Calibrated to public facts) ║
+║  • Airflow Orchestration (Ingestion & Scheduling)              ║
+║  • 6,100+ Real EIA Fuel Price Observations Ingested            ║
+║  • Comprehensive Unit Tests & Calibration Verification         ║
+║                                                              ║
+║  Phase 2-4: In Progress (See docs/implementation_guide.md)     ║
+║  • Star-schema Warehouse & ETL (Transform Layer)               ║
+║  • Fuel-Cost Forecast & Risk Classifier (ML Models)            ║
+║  • Interactive Dashboard & Excel Workbook (Analytics)          ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
 ### 🔧 Tech Stack
 
-**Edge ML & Optimization:**  
-`TensorFlow Lite` `ONNX Runtime` `PyTorch Mobile` `Quantization` `Pruning` `Distillation` `Federated Learning` `ARM Optimization`
+**Data Engineering & Orchestration:**  
+`Apache Airflow` `Python` `SQL` `ETL/ELT Patterns` `Data Modeling` `Star Schema` `Data Quality Checks` `Git` `CI/CD`
 
-**Languages:**  
-`Python` `JavaScript/TypeScript` `C++` `Rust` `PHP`
+**Data Science & Analytics:**  
+`Scikit-learn` `Pandas` `NumPy` `Statistical Forecasting` `Risk Classification` `Hypothesis Testing` `Synthetic Data Generation` `Calibration`
 
-**Frameworks:**  
-`TensorFlow` `PyTorch` `scikit-learn` `Django` `React` `Next.js` `WordPress`
+**Visualization & Reporting:**  
+`PowerBI` `Tableau` `Streamlit` `Excel Advanced Analytics` `Dashboard Design` `Business Intelligence`
 
-**Infrastructure:**  
-`Linux/Ubuntu` `Docker` `Kubernetes` `Edge Computing` `IoT` `CI/CD`
+**Infrastructure & Tools:**  
+`Linux/Ubuntu` `Docker` `Jupyter Notebooks` `PyTest` `Markdown Documentation` `AI-Assisted Development (Disclosed)`
 
 ---
 
 ### 📝 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-
 <!-- BLOG-POST-LIST:END -->
 
-**[View all articles →](your-blog-link)**
+[View all articles →](your-blog-link)
 
 ---
 
@@ -67,21 +77,22 @@ Production-ready ML models optimized for African infrastructure
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Epital Elderguard</h3>
+      <h3 align="center">KQ Network Profitability & Fuel-Risk Intelligence</h3>
       <p align="center">
-        <a href="link-to-project">
-          <img src="screenshot.png" width="100%" alt="Epital Elderguard"/>
+        <a href="your-repo-link">
+          <img src="screenshot.png" width="100%" alt="KQ Pipeline Architecture"/>
         </a>
         <br>
         <br>
-        <strong>Real-time fall-detection system for Elderly Patients</strong>
+        <strong>End-to-end data pipeline for airline recovery strategy</strong>
         <br>
-        92% fall-detection accuracy (hybrid model) | 4.3ms average on-device inference | <10s average alert delivery
+        • **DE:** Airflow DAGs ingesting 6,100+ real fuel prices; synthetic data generator calibrated to KQ financials.<br>
+        • **DS:** Fuel-cost forecasting & availability classification models (in progress).<br>
+        • **DA:** Star-schema warehouse design & strategic dashboard for capacity allocation.<br>
         <br>
-        <br>
-        <a href="github-link">Code</a> •
-        <a href="live-demo">Demo</a> •
-        <a href="article-link">Article</a>
+        <a href="your-repo-link">Code</a> •
+        <a href="your-docs-link">Project Narrative</a> •
+        <a href="your-dashboard-link">Dashboard Preview</a>
       </p>
     </td>
   </tr>
@@ -90,33 +101,33 @@ Production-ready ML models optimized for African infrastructure
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=petitmj&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=petitmj&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=petitmj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=petitmj&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=petitmj&theme=dark&hide_border=false)<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=petitmj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=petitmj&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 
 ### 💼 Currently Seeking
 
-Remote roles where I can:
+Remote/Flexible roles where I can:
 
-- ✅ Build ML systems for global users (not just SF)
-- ✅ Optimize for constraints (better engineering)
-- ✅ Write docs people actually understand
-- ✅ Contribute to meaningful open source
-
-**Target:** Companies serious about "democratize [X]" globally  
-*Automattic • Zapier • Canonical*
+- ✅ **Data Engineering:** Build robust, orchestrated pipelines (Airflow/Python) that handle real-world data scarcity and calibration.
+- ✅ **Data Science:** Develop forecast and classification models grounded in real business constraints, not just clean datasets.
+- ✅ **Data Analytics:** Translate complex operational challenges (like fuel risk/capacity trade-offs) into clear, actionable dashboards.
+- ✅ **Full-Cycle Delivery:** Own projects from raw data ingestion through to executive-level reporting.
+- ✅ **Transparent Engineering:** Maintain honest status tracking and rigorous testing (see README status table).
 
 ---
 
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="mailto:jp0254@proton.me">
+  <a href="mailto:your-email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/jpmukhwana">
@@ -124,14 +135,15 @@ Remote roles where I can:
   </a>
   <a href="https://yourname.dev">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>"The constraints of building for Africa make me a better engineer for everyone. I have learnt to respect bandwidth, memory, and compute. I ship lean, efficient, elegant solutions."</i>
+  <i>"I don't just build models; I build the entire pipeline that makes them trustworthy. From Airflow DAGs to executive dashboards, I ensure data integrity at every step. Constraints like fuel volatility and data scarcity make me a more rigorous engineer for everyone."</i>
   <br>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=petitmj&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </p>
 ```
