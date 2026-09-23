@@ -1,11 +1,9 @@
 # 👋 Hi, I'm J.P Mukhwana
 
-
-```markdown
 # Data Engineer | Data Scientist | Data Analyst
 ## Building Intelligence for Complex, Constrained Systems
 
-```
+
 ┌─────────────────────────────────────────────────────────────────┐
 │ 📊 I turn messy, constrained reality into actionable insight    │
 │                                                                 │
@@ -16,7 +14,7 @@
 │ • High-stakes domain complexity (Aviation Fuel & Operations)    │
 │ • Full-lifecycle delivery (Ingestion → Modeling → Dashboard)    │
 └─────────────────────────────────────────────────────────────────┘
-```
+
 
 ### 🚀 Current Project: KQ Network Profitability & Fuel-Risk Intelligence Pipeline
 
@@ -26,11 +24,11 @@ A production-grade data pipeline built around Kenya Airways' real, current situa
 
 [Explore KQ Intelligence Pipeline →](your-repo-link)
 
----
+
 
 ### 📊 Impact & Status in Production
 
-```
+
 ╔══════════════════════════════════════════════════════════════════╗
 ║  Phase 1: Complete (Built & Verified)                          ║
 ║  • Real + Synthetic Data Pipeline (Calibrated to public facts) ║
@@ -43,9 +41,7 @@ A production-grade data pipeline built around Kenya Airways' real, current situa
 ║  • Fuel-Cost Forecast & Risk Classifier (ML Models)            ║
 ║  • Interactive Dashboard & Excel Workbook (Analytics)          ║
 ╚══════════════════════════════════════════════════════════════════╝
-```
 
----
 
 ### 🔧 Tech Stack
 
@@ -61,16 +57,6 @@ A production-grade data pipeline built around Kenya Airways' real, current situa
 **Infrastructure & Tools:**  
 `Linux/Ubuntu` `Docker` `Jupyter Notebooks` `PyTest` `Markdown Documentation` `AI-Assisted Development (Disclosed)`
 
----
-
-### 📝 Latest Articles
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-[View all articles →](your-blog-link)
-
----
 
 ### 🎯 Featured Projects
 
