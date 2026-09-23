@@ -4,6 +4,7 @@
 ## Building Intelligence for Complex, Constrained Systems
 
 
+
 ┌─────────────────────────────────────────────────────────────────┐
 │ 📊 I turn messy, constrained reality into actionable insight    │
 │                                                                 │
@@ -22,7 +23,7 @@ A production-grade data pipeline built around Kenya Airways' real, current situa
 
 **Built to demonstrate readiness for three related roles: Data Engineer, Data Scientist, and Data Analyst.**
 
-[Explore KQ Intelligence Pipeline →](your-repo-link)
+[Explore KQ Intelligence Pipeline →](https://github.com/petitmj/KQ-Profitability-and-Fuel-Risk-Pipeline)
 
 
 
@@ -76,8 +77,8 @@ A production-grade data pipeline built around Kenya Airways' real, current situa
         • **DS:** Fuel-cost forecasting & availability classification models (in progress).<br>
         • **DA:** Star-schema warehouse design & strategic dashboard for capacity allocation.<br>
         <br>
-        <a href="your-repo-link">Code</a> •
-        <a href="your-docs-link">Project Narrative</a> •
+        <a href="https://github.com/petitmj/KQ-Profitability-and-Fuel-Risk-Pipeline">Code</a> •
+        <a href="https://github.com/petitmj/KQ-Profitability-and-Fuel-Risk-Pipeline/blob/main/README.md">Project Narrative</a> •
         <a href="your-dashboard-link">Dashboard Preview</a>
       </p>
     </td>
@@ -113,7 +114,7 @@ Remote/Flexible roles where I can:
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:petitjhn@protonmail.com.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/jpmukhwana">
