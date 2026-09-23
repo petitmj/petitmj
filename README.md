@@ -1,21 +1,16 @@
-# 👋 Hi, I'm J.P Mukhwana
-
 # Data Engineer | Data Scientist | Data Analyst
 ## Building Intelligence for Complex, Constrained Systems
 
+> ### 📊 I turn messy, constrained reality into actionable insight
+> 
+> While others build on clean, synthetic Kaggle datasets, I build for reality:
+> 
+> *   **Real-world data scarcity:** Only public financials available
+> *   **Hybrid data architectures:** Real + Calibrated Synthetic data
+> *   **High-stakes domain complexity:** Aviation Fuel & Operations
+> *   **Full-lifecycle delivery:** Ingestion → Modeling → Dashboard
 
-
-
-│ 📊 I turn messy, constrained reality into actionable insight    │
-│                                                                 │
-│ While others build on clean, synthetic Kaggle datasets,         │
-│ I build for reality:                                            │
-│ • Real-world data scarcity (only public financials available)   │
-│ • Hybrid data architectures (Real + Calibrated Synthetic)       │
-│ • High-stakes domain complexity (Aviation Fuel & Operations)    │
-│ • Full-lifecycle delivery (Ingestion → Modeling → Dashboard)    │
-
-
+---
 
 ### 🚀 Current Project: KQ Network Profitability & Fuel-Risk Intelligence Pipeline
 
@@ -23,26 +18,26 @@ A production-grade data pipeline built around Kenya Airways' real, current situa
 
 **Built to demonstrate readiness for three related roles: Data Engineer, Data Scientist, and Data Analyst.**
 
-[Explore KQ Intelligence Pipeline →](https://github.com/petitmj/KQ-Profitability-and-Fuel-Risk-Pipeline)
+[Explore KQ Intelligence Pipeline →](https://github.com/petitmj/KQ-Profitability-and-Fuel-Risk-Pipeline/tree/Challenge-1)
 
-
+---
 
 ### 📊 Impact & Status in Production
 
+> ### ✅ Phase 1: Complete (Built & Verified)
+> *   **Real + Synthetic Data Pipeline:** Calibrated to public facts
+> *   **Airflow Orchestration:** Ingestion & Scheduling DAGs built
+> *   **Data Ingestion:** 6,100+ Real EIA Fuel Price Observations processed
+> *   **Quality Assurance:** Comprehensive Unit Tests & Calibration Verification passed
+>
+> ### 🚧 Phase 2-4: In Progress
+> *   **Star-schema Warehouse & ETL:** (Transform Layer)
+> *   **Fuel-Cost Forecast & Risk Classifier:** (ML Models)
+> *   **Interactive Dashboard & Excel Workbook:** (Analytics)
+>
+> _See `docs/implementation_guide.md` for detailed task breakdown._
 
-╔══════════════════════════════════════════════════════════════════╗
-║  Phase 1: Complete (Built & Verified)                            ║
-║  • Real + Synthetic Data Pipeline (Calibrated to public facts)   ║
-║  • Airflow Orchestration (Ingestion & Scheduling)                ║
-║  • 6,100+ Real EIA Fuel Price Observations Ingested              ║
-║  • Comprehensive Unit Tests & Calibration Verification           ║
-║                                                                  ║
-║  Phase 2-4: In Progress (See docs/implementation_guide.md)       ║
-║  • Star-schema Warehouse & ETL (Transform Layer)                 ║
-║  • Fuel-Cost Forecast & Risk Classifier (ML Models)              ║
-║  • Interactive Dashboard & Excel Workbook (Analytics)            ║
-╚══════════════════════════════════════════════════════════════════╝
-
+---
 
 ### 🔧 Tech Stack
 
@@ -57,7 +52,6 @@ A production-grade data pipeline built around Kenya Airways' real, current situa
 
 **Infrastructure & Tools:**  
 `Linux/Ubuntu` `Docker` `Jupyter Notebooks` `PyTest` `Markdown Documentation` `AI-Assisted Development (Disclosed)`
-
 
 ### 🎯 Featured Projects
 
@@ -77,8 +71,8 @@ A production-grade data pipeline built around Kenya Airways' real, current situa
         • **DS:** Fuel-cost forecasting & availability classification models (in progress).<br>
         • **DA:** Star-schema warehouse design & strategic dashboard for capacity allocation.<br>
         <br>
-        <a href="https://github.com/petitmj/KQ-Profitability-and-Fuel-Risk-Pipeline">Code</a> •
-        <a href="https://github.com/petitmj/KQ-Profitability-and-Fuel-Risk-Pipeline/blob/main/README.md">Project Narrative</a> •
+        <a href="https://github.com/petitmj/KQ-Profitability-and-Fuel-Risk-Pipeline/tree/Challenge-1">Code</a> •
+        <a href="https://github.com/petitmj/KQ-Profitability-and-Fuel-Risk-Pipeline/blob/Challenge-1/README.md">Project Narrative</a> •
         <a href="your-dashboard-link">Dashboard Preview</a>
       </p>
     </td>
@@ -114,7 +108,7 @@ Remote/Flexible roles where I can:
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="mailto:petitjhn@protonmail.com.com">
+  <a href="mailto:your-petitjhn@protonmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/jpmukhwana">
@@ -128,9 +122,8 @@ Remote/Flexible roles where I can:
 ---
 
 <p align="center">
-  <i>"I don't just build models; I build the entire pipeline that makes them trustworthy. From Airflow DAGs to executive dashboards, I ensure data integrity at every step. Constraints like fuel volatility and data scarcity make me a more rigorous engineer for everyone."</i>
+  <i>"I go beyond building models; I build the entire pipeline that makes them trustworthy. From Airflow DAGs to executive dashboards, I ensure data integrity at every step. Constraints like fuel volatility and data scarcity make me a more rigorous engineer for everyone."</i>
   <br>
   <br>
   <img src="https://komarev.com/ghpvc/?username=petitmj&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </p>
-```
